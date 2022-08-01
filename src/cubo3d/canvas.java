@@ -7,7 +7,7 @@ package cubo3d;
 
 /**
  *
- * @author PC
+ * @author AdrianBL
  */
 public class canvas extends javax.swing.JFrame {
 
